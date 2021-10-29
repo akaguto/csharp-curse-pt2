@@ -15,7 +15,7 @@ LINQ e muito mais._
 
 ##### Conteúdo:
 
-##### [Seção 9: Enumerações e composição](link)
+##### [Seção 9: Enumerações e composição](https://github.com/akaguto/csharp-curse-pt2/tree/main/secao9-enumeracoes-composicao)
 
-- [ ] [Aula 115: _Enumeração_] (https://github.com/akaguto/csharp-curse-pt2/tree/main/secao9-enumeracoes-composicao/aula115-enumeracoes)
+- [x] Aula 115: _Enumeração_
 - [ ] Aula 116: _Vamos falar um pouco de Design_
